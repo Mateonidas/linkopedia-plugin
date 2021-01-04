@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Linkopedia",
+  "version": "1.0",
+
+  "permissions": [
+    "<all_urls>",
+    "tabs"
+  ],
+
+  "browser_action": {
+    "default_popup": "index.html"
+  }
+}

@@ -1,0 +1,13 @@
+.container {
+  margin: 1.5em;
+  text-align: center;
+}
+
+.result {
+  margin-top: 1em;
+}
+
+.field {
+  float: left;
+  margin: 2px;
+}
